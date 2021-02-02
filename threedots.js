@@ -1,0 +1,11 @@
+// const ages = [12,,15,,18,20];
+// const ages1 = [25,,27,,29];
+// const ages2 = [50,,60,,70,,80,,100];
+// const result = [...ages, ...ages1, ...ages2];
+// console.log(result);
+const business = 850;
+const minister = 650;
+const sochib = 450;
+const takaPoisha = [850, 650, 450];
+const maximum = Math.max(...takaPoisha);
+console.log(maximum);
